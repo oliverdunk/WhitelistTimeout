@@ -1,0 +1,5 @@
+name: WhitelistTimeout
+version: 1.0
+main: me.olivervscreeper.whitelisttimeout.WhitelistTimeout
+
+depend: [NetworkUtilities]
